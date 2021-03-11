@@ -44,7 +44,7 @@ public class HelloWorld {
 //                System.out.printf("[% -3d]=%-10d", i, array[i]);}
 //            System.out.println(Arrays.toString(array));
 
-
+//новое здесь---посмотриии на меня
     }
 }
 
